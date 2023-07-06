@@ -1,5 +1,5 @@
 # Face-Verification
-A face verification software created using tensorflow and python
+A face verification software created with TensorFlow and Python is used to disable the keyboard and mouse when the user is either not detected in the webcam or if it is a different person.
 
 # Technique
 ![download](https://github.com/NateTheGreat7117/Face-Verification/assets/71854770/968c13d7-35bc-4548-9f08-3f8b1e0fb632)
